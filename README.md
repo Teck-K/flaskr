@@ -1,2 +1,0 @@
-# flaskr
-flaskr app
